@@ -1,0 +1,15 @@
+style/css
+
+.container{
+    image-rendering: right;
+    border-image-width: 2px;
+    mask-size: height 300
+}
+
+.content{
+    text-align: left;
+    font-size: 2px;
+}
+.col{
+    text-align: left;
+}
